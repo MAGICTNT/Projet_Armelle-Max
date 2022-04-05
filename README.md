@@ -7,7 +7,7 @@
 ### General Info
 ***
 Un petit projet entre nous pour le plaisir d'untiliser une Api.
-![Image text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zdnet.fr%2Factualites%2Fgithub-mise-sur-le-machine-learning-pour-detecter-les-vulnerabilites-39937745.htm&psig=AOvVaw0omDbhIcslk2kFnjA8cjsQ&ust=1649277783840000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKDU1M_l_fYCFQAAAAAdAAAAABAD)
+![Image text](https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/06/github-logo__w1200.png)
 ## Technologies
 ***
 A list of technologies used within the project:
