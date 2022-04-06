@@ -3,7 +3,7 @@
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
-5. [Recuperation du projet](#Récuperation du projet)
+5. [Clone](#Clone)
 
 ### General Info
 ***
@@ -30,7 +30,10 @@ Les profil github des dev sont:
 
 > si vous avez des remarque contacter nous
 
-## Récuperation du projet
+## Clone
+```bash
+git clone https://github.com/MAGICTNT/Projet_Armelle-Max.git
+```
 
 
 
