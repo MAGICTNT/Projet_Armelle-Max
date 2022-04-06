@@ -3,7 +3,7 @@
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
-5. [Recuperation du projet](#projet)
+5. [Recuperation du projet](#Récuperation du projet)
 
 ### General Info
 ***
@@ -30,7 +30,7 @@ Les profil github des dev sont:
 
 > si vous avez des remarque contacter nous
 
-## récuperation du projet
+## Récuperation du projet
 
 
 
