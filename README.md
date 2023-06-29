@@ -8,7 +8,7 @@
 ### General Info
 ***
 Un petit projet entre nous pour le plaisir d'untiliser une Api.
-[Image text](https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/06/github-logo__w1200.png)
+![Image text](https://d1fmx1rbmqrxrr.cloudfront.net/zdnet/optim/i/edit/ne/2020/06/github-logo__w1200.png)
 ## Technologies
 ***
 A list of technologies used within the project:
